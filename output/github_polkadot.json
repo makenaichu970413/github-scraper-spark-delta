@@ -1,0 +1,68 @@
+{
+  "repo_name": "polkadot",
+  "repo_url": "https://github.com/paritytech/polkadot",
+  "description": "Polkadot Node Implementation",
+  "website": null,
+  "topics": [
+    "rust",
+    "client",
+    "node",
+    "blockchain",
+    "parity",
+    "polkadot"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "7.1k",
+  "watchers": "528",
+  "forks": "1.6k",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/gavofyork",
+      "username": "gavofyork",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "paritytech"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/rphmeier",
+      "username": "rphmeier",
+      "email": null,
+      "bio": "Epistemology, Hermeneutics, Philology, Dynamics",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/bkchr",
+      "username": "bkchr",
+      "email": null,
+      "bio": "Ser Developer @paritytech using @rust-lang. \n\n13fvj4bNfrTo8oW6U8525soRp6vhjAFLum6XBdtqq9yP22E7",
+      "organizations": [
+        "paritytech"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/shawntabrizi",
+      "username": "shawntabrizi",
+      "email": null,
+      "bio": "Discovery through experience.\n　\nPolkadot Address: 12hAtDZJGt4of3m2GqZcUCVAjZPALfvPwvtUTFZPQUbdX1Ud",
+      "organizations": [
+        "paritytech",
+        "polkadot-js",
+        "polkadot-fellows"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/pepyakin",
+      "username": "pepyakin",
+      "email": null,
+      "bio": "frobbing dang bits",
+      "organizations": [
+        "rustwasm"
+      ]
+    }
+  ],
+  "contributors_total": 262
+}

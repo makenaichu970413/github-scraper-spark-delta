@@ -1,0 +1,64 @@
+{
+  "repo_name": "bittensor",
+  "repo_url": "https://github.com/opentensor/bittensor",
+  "description": "Internet-scale Neural Networks",
+  "website": "www.bittensor.com/",
+  "topics": [
+    "machine-learning",
+    "ai",
+    "deep-learning",
+    "blockchain",
+    "p2p",
+    "torch",
+    "pytorch",
+    "cryptocurrency",
+    "neural-networks",
+    "substrate",
+    "p2p-network",
+    "polkadot"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "1.2k",
+  "watchers": "38",
+  "forks": "396",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/ibraheem-abe",
+      "username": "ibraheem-abe",
+      "email": null,
+      "bio": "Aka Abe;\nCoding @latent-to / @opentensor",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/basfroman",
+      "username": "basfroman",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/shibshib",
+      "username": "shibshib",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/unconst",
+      "username": "unconst",
+      "email": null,
+      "bio": "Building Neurons. Turning the Web into a brain.",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/thewhaleking",
+      "username": "thewhaleking",
+      "email": null,
+      "bio": "Writes Python for @latent-to / @opentensor",
+      "organizations": null
+    }
+  ],
+  "contributors_total": 114
+}

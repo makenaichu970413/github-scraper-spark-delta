@@ -1,0 +1,27 @@
+{
+  "repo_name": "onnx",
+  "repo_url": "https://github.com/onnx/onnx",
+  "description": "Open standard for machine learning interoperability",
+  "website": "onnx.ai/",
+  "topics": [
+    "machine-learning",
+    "deep-neural-networks",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "scikit-learn",
+    "keras",
+    "ml",
+    "dnn",
+    "pytorch",
+    "onnx"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "19.3k",
+  "watchers": "435",
+  "forks": "3.8k",
+  "contributors": [],
+  "contributors_total": 334
+}

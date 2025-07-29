@@ -1,0 +1,51 @@
+{
+  "repo_name": "langchain",
+  "repo_url": "https://github.com/langchain-ai/langchain",
+  "description": "🦜🔗 Build context-aware reasoning applications",
+  "website": "python.langchain.com",
+  "topics": null,
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "112k",
+  "watchers": "771",
+  "forks": "18.4k",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/ccurme",
+      "username": "ccurme",
+      "email": null,
+      "bio": "Engineering @ LangChain. Formerly: AI @ Microsoft, ML Eng @ Kensho Technologies.",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/baskaryan",
+      "username": "baskaryan",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/eyurtsev",
+      "username": "eyurtsev",
+      "email": null,
+      "bio": "SWE | ML | Chief Data Kitten",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/hwchase17",
+      "username": "hwchase17",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/nfcampos",
+      "username": "nfcampos",
+      "email": null,
+      "bio": "Helping people build stuff.",
+      "organizations": null
+    }
+  ],
+  "contributors_total": 3
+}

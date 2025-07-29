@@ -1,0 +1,77 @@
+{
+  "repo_name": "pennylane",
+  "repo_url": "https://github.com/PennyLaneAI/pennylane",
+  "description": "PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research.",
+  "website": "pennylane.ai",
+  "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "neural-network",
+    "qml",
+    "tensorflow",
+    "optimization",
+    "quantum",
+    "differentiable-computing",
+    "automatic-differentiation",
+    "pytorch",
+    "autograd",
+    "quantum-computing",
+    "quantum-chemistry",
+    "hacktoberfest",
+    "quantum-machine-learning",
+    "qiskit",
+    "jax",
+    "cirq",
+    "strawberryfields"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": null,
+  "stars": "2.8k",
+  "watchers": "48",
+  "forks": "682",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/josh146",
+      "username": "josh146",
+      "email": null,
+      "bio": "Quantum physicist and software tinkerer",
+      "organizations": [
+        "XanaduAI",
+        "PennyLaneAI"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/albi3ro",
+      "username": "albi3ro",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/mudit2812",
+      "username": "mudit2812",
+      "email": null,
+      "bio": "Quantum Software Developer @XanaduAI",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/antalszava",
+      "username": "antalszava",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/cgogolin",
+      "username": "cgogolin",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "quantum-journal"
+      ]
+    }
+  ],
+  "contributors_total": 213
+}

@@ -1,0 +1,65 @@
+{
+  "repo_name": "FedML",
+  "repo_url": "https://github.com/FedML-AI/FedML",
+  "description": "FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Built on this library, TensorOpera AI (https://TensorOpera.ai) is your generative AI platform at scale.",
+  "website": "TensorOpera.ai",
+  "topics": [
+    "machine-learning",
+    "deep-learning",
+    "inference-engine",
+    "model-deployment",
+    "model-serving",
+    "distributed-training",
+    "federated-learning",
+    "mlops",
+    "edge-ai",
+    "ai-agent",
+    "on-device-training"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": null,
+  "stars": "3.9k",
+  "watchers": "95",
+  "forks": "755",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/han-shanshan",
+      "username": "han-shanshan",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/fedml-alex",
+      "username": "fedml-alex",
+      "email": null,
+      "bio": "Focus on the Machine Learning for Cloud & Edge infrastructure. Stay hungry, Stay foolish.",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/Raphael-Jin",
+      "username": "Raphael-Jin",
+      "email": null,
+      "bio": "Machine Learning Infra & System \nEngineer.",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/alaydshah",
+      "username": "alaydshah",
+      "email": null,
+      "bio": "LLM Sys @ TogetherAI | ex-Palantir, Amazon | Trojan ✌🏻",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/chaoyanghe",
+      "username": "chaoyanghe",
+      "email": null,
+      "bio": "Co-founder at TensorOpera AI, FedML, and ChainOpera AI; Ph.D. in Computer Science, University of Southern California, Los Angeles",
+      "organizations": [
+        "FedML-AI"
+      ]
+    }
+  ],
+  "contributors_total": 66
+}

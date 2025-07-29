@@ -1,0 +1,21 @@
+{
+  "repo_name": "ocean.py",
+  "repo_url": "https://github.com/oceanprotocol/ocean.py",
+  "description": "🦑 Ocean Protocol's Python library to privately & securely publish, exchange, and consume data.",
+  "website": "oceanprotocol.com",
+  "topics": [
+    "ocean",
+    "blockchain",
+    "ocean-protocol",
+    "ocean-tokens",
+    "balancer-pools"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "172",
+  "watchers": "17",
+  "forks": "80",
+  "contributors": [],
+  "contributors_total": 19
+}

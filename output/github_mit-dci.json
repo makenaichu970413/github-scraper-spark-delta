@@ -1,0 +1,51 @@
+{
+  "repo_name": "mit-dci",
+  "repo_url": "https://github.com/mit-dci",
+  "description": null,
+  "website": null,
+  "topics": null,
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": null,
+  "stars": null,
+  "watchers": null,
+  "forks": null,
+  "contributors": [
+    {
+      "profile_url": "/madars",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/narula",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/laanwj",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/kcalvinalvin",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/metalicjames",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    }
+  ],
+  "contributors_total": null
+}

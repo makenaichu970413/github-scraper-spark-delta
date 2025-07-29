@@ -1,0 +1,74 @@
+{
+  "repo_name": "qiskit",
+  "repo_url": "https://github.com/Qiskit/qiskit",
+  "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+  "website": "www.ibm.com/quantum/qiskit",
+  "topics": [
+    "python",
+    "sdk",
+    "quantum",
+    "quantum-computing",
+    "quantum-circuit",
+    "quantum-programming-language",
+    "qiskit"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "6.3k",
+  "watchers": "224",
+  "forks": "2.6k",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/1ucian0",
+      "username": "1ucian0",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "IBM",
+        "PatchPorting",
+        "Qiskit"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/jakelishman",
+      "username": "jakelishman",
+      "email": null,
+      "bio": "Quantum software developer for @IBM. Maintainer of @Qiskit, and @openqasm 3.0 design team member. PhD in trapped-ion quantum computing.",
+      "organizations": [
+        "qutip",
+        "Qiskit",
+        "ImperialCQD"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/jaygambetta",
+      "username": "jaygambetta",
+      "email": null,
+      "bio": "I am a quantum information scientist researching in the field of quantum information and computation.",
+      "organizations": [
+        "Qiskit"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/Cryoris",
+      "username": "Cryoris",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "IBM"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/mtreinish",
+      "username": "mtreinish",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "IBM",
+        "Qiskit"
+      ]
+    }
+  ],
+  "contributors_total": 622
+}

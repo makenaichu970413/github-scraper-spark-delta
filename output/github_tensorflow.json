@@ -1,0 +1,78 @@
+{
+  "repo_name": "tensorflow",
+  "repo_url": "https://github.com/tensorflow/tensorflow",
+  "description": "An Open Source Machine Learning Framework for Everyone",
+  "website": "tensorflow.org",
+  "topics": [
+    "python",
+    "machine-learning",
+    "deep-neural-networks",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "ml",
+    "distributed"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "191k",
+  "watchers": "7.5k",
+  "forks": "74.8k",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/ezhulenev",
+      "username": "ezhulenev",
+      "email": null,
+      "bio": "Software Engineer, working on machine learning compilers and runtimes at Google",
+      "organizations": [
+        "google",
+        "tensorflow",
+        "llvm",
+        "openxla"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/tensorflower-gardener",
+      "username": "tensorflower-gardener",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/akuegel",
+      "username": "akuegel",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "google",
+        "tensorflow",
+        "llvm",
+        "openxla"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/mihaimaruseac",
+      "username": "mihaimaruseac",
+      "email": null,
+      "bio": "Supply chain security @ Google OSS Security Team. Previously TensorFlow Security & OSS (@ Google); Haskell+differential privacy+ML @ LeapYear.",
+      "organizations": [
+        "rosedu",
+        "google",
+        "haskell-ro",
+        "googlers"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/hawkinsp",
+      "username": "hawkinsp",
+      "email": null,
+      "bio": "JAX @ Google",
+      "organizations": [
+        "google",
+        "openxla"
+      ]
+    }
+  ],
+  "contributors_total": 3
+}

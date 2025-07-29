@@ -1,0 +1,65 @@
+{
+  "repo_name": "fabric",
+  "repo_url": "https://github.com/hyperledger/fabric",
+  "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+  "website": "lf-hyperledger.atlassian.net/wiki/spaces/fabric",
+  "topics": [
+    "fabric",
+    "blockchain",
+    "consensus",
+    "hyperledger",
+    "confidentiality",
+    "distributed-ledger"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "16.2k",
+  "watchers": "984",
+  "forks": "9k",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/jyellick",
+      "username": "jyellick",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/sykesm",
+      "username": "sykesm",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "cfibmers",
+        "cloudfoundry-incubator"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/denyeart",
+      "username": "denyeart",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "IBM"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/yacovm",
+      "username": "yacovm",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/mastersingh24",
+      "username": "mastersingh24",
+      "email": null,
+      "bio": "",
+      "organizations": [
+        "GoogleCloudPlatform"
+      ]
+    }
+  ],
+  "contributors_total": 416
+}

@@ -1,0 +1,21 @@
+{
+  "repo_name": "nucypher",
+  "repo_url": "https://github.com/nucypher/nucypher",
+  "description": "Threshold Access Control (TACo) Node Runtime",
+  "website": null,
+  "topics": [
+    "security",
+    "cryptography",
+    "web3",
+    "access-control",
+    "end-to-end-encryption"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "security",
+  "stars": "705",
+  "watchers": "45",
+  "forks": "274",
+  "contributors": [],
+  "contributors_total": 42
+}

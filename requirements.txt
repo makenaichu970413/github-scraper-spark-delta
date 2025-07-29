@@ -1,0 +1,9 @@
+beautifulsoup4
+lxml
+requests
+mypy
+pydantic
+openpyxl
+fake_useragent
+pyspark==4.0.0
+delta-spark==4.0.0

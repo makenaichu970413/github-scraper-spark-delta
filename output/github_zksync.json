@@ -1,0 +1,58 @@
+{
+  "repo_name": "zksync",
+  "repo_url": "https://github.com/matter-labs/zksync",
+  "description": "zkSync: trustless scaling and privacy engine for Ethereum",
+  "website": "zksync.io",
+  "topics": [
+    "team-core"
+  ],
+  "license": "Apache-2.0\nLICENSE-APACHE",
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "4.9k",
+  "watchers": "172",
+  "forks": "2.6k",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/popzxc",
+      "username": "popzxc",
+      "email": null,
+      "bio": "Halt and catch fire",
+      "organizations": [
+        "actix",
+        "matter-labs"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/dvush",
+      "username": "dvush",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/perekopskiy",
+      "username": "perekopskiy",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/gluk64",
+      "username": "gluk64",
+      "email": null,
+      "bio": "https://twitter.com/gluk64",
+      "organizations": [
+        "matter-labs"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/Deniallugo",
+      "username": "Deniallugo",
+      "email": null,
+      "bio": "Software Developer.\nBlockchain, Decentralization.",
+      "organizations": null
+    }
+  ],
+  "contributors_total": 56
+}

@@ -1,0 +1,44 @@
+{
+  "repo_name": "stanford-crfm",
+  "repo_url": "https://github.com/stanford-crfm",
+  "description": null,
+  "website": null,
+  "topics": null,
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": null,
+  "stars": null,
+  "watchers": null,
+  "forks": null,
+  "contributors": [
+    {
+      "profile_url": "/lxuechen",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/dlwh",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/teetone",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/michiyasunaga",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    }
+  ],
+  "contributors_total": null
+}

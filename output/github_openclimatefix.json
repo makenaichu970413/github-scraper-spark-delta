@@ -1,0 +1,51 @@
+{
+  "repo_name": "openclimatefix",
+  "repo_url": "https://github.com/openclimatefix",
+  "description": null,
+  "website": null,
+  "topics": null,
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": null,
+  "stars": null,
+  "watchers": null,
+  "forks": null,
+  "contributors": [
+    {
+      "profile_url": "/tomwhite",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/JackKelly",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/jacobbieker",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/thomasarmstrong98",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/aryanbhosale",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    }
+  ],
+  "contributors_total": null
+}

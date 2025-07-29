@@ -1,0 +1,19 @@
+{
+  "repo_name": "oasis-core",
+  "repo_url": "https://github.com/oasisprotocol/oasis-core",
+  "description": "Performant and Confidentiality-Preserving Smart Contracts + Blockchains",
+  "website": "oasisprotocol.org",
+  "topics": [
+    "privacy",
+    "smart-contracts",
+    "blockchain"
+  ],
+  "license": "Apache-2.0\nLICENSE",
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "354",
+  "watchers": "43",
+  "forks": "138",
+  "contributors": [],
+  "contributors_total": 48
+}

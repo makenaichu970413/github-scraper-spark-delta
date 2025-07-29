@@ -1,0 +1,86 @@
+{
+  "repo_name": "transformers",
+  "repo_url": "https://github.com/huggingface/transformers",
+  "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+  "website": "huggingface.co/transformers",
+  "topics": [
+    "audio",
+    "python",
+    "nlp",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "transformer",
+    "speech-recognition",
+    "glm",
+    "pretrained-models",
+    "hacktoberfest",
+    "gemma",
+    "vlm",
+    "pytorch-transformers",
+    "model-hub",
+    "llm",
+    "qwen",
+    "deepseek"
+  ],
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": "Security policy",
+  "stars": "148k",
+  "watchers": "1.2k",
+  "forks": "29.8k",
+  "contributors": [
+    {
+      "profile_url": "https://github.com/thomwolf",
+      "username": "thomwolf",
+      "email": null,
+      "bio": "Co-founder @ Hugging Face",
+      "organizations": [
+        "huggingface",
+        "bigscience-workshop"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/LysandreJik",
+      "username": "LysandreJik",
+      "email": null,
+      "bio": "Chief OS Officer @ HF",
+      "organizations": [
+        "conda-forge",
+        "huggingface",
+        "ProjectBlackFalcon",
+        "PyTorch-Community-Voices",
+        "PyTorch-GitHub-Badge-Ecosystem-Day",
+        "Hugging-Face-Supporter",
+        "Hugging-Face-Helping-Hand"
+      ]
+    },
+    {
+      "profile_url": "https://github.com/patrickvonplaten",
+      "username": "patrickvonplaten",
+      "email": null,
+      "bio": "",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/ydshieh",
+      "username": "ydshieh",
+      "email": null,
+      "bio": "Machine Learning Engineer",
+      "organizations": null
+    },
+    {
+      "profile_url": "https://github.com/sgugger",
+      "username": "sgugger",
+      "email": null,
+      "bio": "All things Machine Learning\nprev Hugging Face/fast.ai",
+      "organizations": [
+        "PyTorch-Community-Voices",
+        "PyTorch-GitHub-Badge-Ecosystem-Day",
+        "PyTorch-Conference-2022"
+      ]
+    }
+  ],
+  "contributors_total": 3
+}

@@ -1,0 +1,37 @@
+{
+  "repo_name": "fluencelabs",
+  "repo_url": "https://github.com/fluencelabs",
+  "description": null,
+  "website": null,
+  "topics": null,
+  "license": null,
+  "code_of_conduct": null,
+  "security_policy": null,
+  "stars": null,
+  "watchers": null,
+  "forks": null,
+  "contributors": [
+    {
+      "profile_url": "/justprosh",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/alari",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    },
+    {
+      "profile_url": "/mikevoronov",
+      "username": null,
+      "email": null,
+      "bio": null,
+      "organizations": null
+    }
+  ],
+  "contributors_total": null
+}
