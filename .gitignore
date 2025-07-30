@@ -209,3 +209,4 @@ __marimo__/
 github_logs.db
 spark/temp
 artifacts
+delta
