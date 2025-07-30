@@ -5,7 +5,7 @@ import logging
 from pydantic import BaseModel
 
 # ? Utils
-from utils.models import TGitHubUser
+from utils.model.Sgithub import TGitHubUser
 from utils.constant import REQUEST_TIMEOUT
 from utils.function.FuncScrape import bs_select_one
 from utils.function.FuncRequest import check_request_rate, create_session

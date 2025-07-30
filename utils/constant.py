@@ -1,5 +1,5 @@
 # Library
-from utils.models import TStatusError, TStatusSucess
+from utils.model.Sgithub import TStatusError, TStatusSucess
 import os
 from pathlib import Path
 
@@ -9,8 +9,8 @@ THREAD_SUB_MAX_WORKER: int = 3
 
 
 REQUEST_RETRY_ATTEMPT = 3
-REQUEST_MAX_PER_MINUTE: int = 60  # Adjust as needed
-REQUEST_TIMEOUT: int = 10  # second
+REQUEST_MAX_PER_MINUTE = 60  # Adjust as needed
+REQUEST_TIMEOUT = 10  # second
 
 
 BRIGHTDATA_ZONE: str | None = os.getenv("BRIGHTDATA_ZONE")
@@ -50,3 +50,6 @@ STATUS_FAILED = "F"
 
 REPORT_COUNT = 5
 REPORT_LINE_WIDTH = 50
+
+
+DOMAIN_GITHUB = "https://api.github.com/"

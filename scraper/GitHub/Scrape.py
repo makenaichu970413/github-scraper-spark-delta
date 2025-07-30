@@ -33,7 +33,7 @@ from utils.function import FuncDBLogRepo as Log
 from utils.function.FuncReport import github_report, github_report_repo
 from utils.function.FuncRequest import ethical_delay
 from utils.function.FuncFile import export_json
-from utils.models import TGitHubRepo, TGitHubRepoLog
+from utils.model.Sgithub import TGitHubRepo, TGitHubRepoLog
 
 
 class DProcessGitHub(BaseModel):

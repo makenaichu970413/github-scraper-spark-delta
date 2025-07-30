@@ -1,6 +1,8 @@
 # Scraper
 from scraper.GitHub import Scrape as ScraperGithub
+from scraper.GitHubAPI import Scrape as ScraperGitHubAPI
 from spark.GitHub import Spark as SparkGitHub
+
 
 # Run with `-B`` flag to prevent "__pycache__/""
 # python -B main.py
@@ -28,4 +30,5 @@ def GitHubETL():
 
 if __name__ == "__main__":
 
-    GitHubETL()
+    ScraperGitHubAPI.scrape()
+    # GitHubETL()

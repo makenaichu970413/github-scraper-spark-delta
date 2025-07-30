@@ -5,6 +5,7 @@ import threading
 from fake_useragent import UserAgent
 from requests import Session
 import logging
+from dataclasses import asdict
 
 
 # ? Utils
@@ -17,6 +18,7 @@ from utils.constant import (
     REQUEST_MAX_PER_MINUTE,
     PROXY,
 )
+from utils.model.Iapi import IHeaders
 
 
 def ethical_delay(base_delay=1.0, max_jitter=2.0) -> None:
@@ -57,7 +59,7 @@ def check_request_rate() -> None:
         request_timestamps.append(now)
 
 
-def create_session() -> Session:
+def create_session(header: IHeaders | None = None) -> Session:
     """
     Create a requests session with rotating User-Agent and proxy support
     Returns:
@@ -71,6 +73,9 @@ def create_session() -> Session:
         "User-Agent": ua.random,
         # "Accept-Language": "en-US,en;q=0.9",
     }
+    if header:
+        headers = {**headers, **header.model_dump()}
+        print(f"headers: {headers}")
     session.headers.update(headers)
 
     # "BRIGHTDATA" proxy configuration

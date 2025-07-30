@@ -18,7 +18,7 @@ from utils.constant import (
     THREAD_MAX_WORKER,
 )
 from utils.function import FuncDBLogRepo as Log
-from utils.models import TGitHubRepoLog
+from utils.model.Sgithub import TGitHubRepoLog
 
 
 def scrape_error_repo() -> None:

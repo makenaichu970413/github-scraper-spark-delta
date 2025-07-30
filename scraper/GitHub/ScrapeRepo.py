@@ -11,7 +11,7 @@ from scraper.GitHub.ScrapeContributors import scrape_contributors
 
 # ? Utils
 from utils.constant import REQUEST_TIMEOUT
-from utils.models import TGitHubRepo
+from utils.model.Sgithub import TGitHubRepo
 from utils.function.FuncRequest import check_request_rate, create_session
 from utils.function.FuncScrape import bs_select_one
 

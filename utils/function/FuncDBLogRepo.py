@@ -5,7 +5,7 @@ import logging
 # ? Utils
 from utils.constant import DB_FILEPATH, DB_NAME_REPO
 from utils.function.FuncDB import db_retry_lock
-from utils.models import TGitHubRepoLog
+from utils.model.Sgithub import TGitHubRepoLog
 
 
 def init_table() -> bool:

@@ -1,7 +1,6 @@
 # Library
 import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from typing import cast, Optional
 
 
 # ? Scrapper
@@ -21,7 +20,12 @@ from utils.constant import (
 from utils.function import FuncDBLogContributor as LogContributor
 from utils.function import FuncDBLogRepo as LogRepo
 from utils.function.FuncFile import export_json, import_json
-from utils.models import TGitHubContributorLog, TGitHubRepo, TGitHubRepoLog, TGitHubUser
+from utils.model.Sgithub import (
+    TGitHubContributorLog,
+    TGitHubRepo,
+    TGitHubRepoLog,
+    TGitHubUser,
+)
 
 
 def scrape_error_contributor(

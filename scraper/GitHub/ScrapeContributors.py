@@ -20,7 +20,7 @@ from utils.constant import (
 from utils.function import FuncDBLogContributor as Log
 from utils.function.FuncScrape import bs_select_one
 from utils.function.FuncRequest import ethical_delay
-from utils.models import TGitHubContributorLog, TGitHubUser
+from utils.model.Sgithub import TGitHubContributorLog, TGitHubUser
 
 
 class DProcessContributor(BaseModel):

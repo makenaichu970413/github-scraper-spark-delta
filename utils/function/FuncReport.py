@@ -11,7 +11,7 @@ from utils.constant import (
 )
 from utils.function import FuncDBLogRepo as LogRepo
 from utils.function import FuncDBLogContributor as LogContributor
-from utils.models import TGitHubContributorJoinLog, TGitHubRepoLog
+from utils.model.Sgithub import TGitHubContributorJoinLog, TGitHubRepoLog
 
 
 def github_report(start: datetime, completed: bool = False) -> str:

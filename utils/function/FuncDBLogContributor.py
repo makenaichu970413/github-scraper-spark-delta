@@ -9,7 +9,7 @@ from utils.constant import (
     DB_NAME_REPO,
 )
 from utils.function.FuncDB import db_retry_lock
-from utils.models import (
+from utils.model.Sgithub import (
     TGitHubContributorJoinLog,
     TGitHubContributorLog,
     TGitHubContributorBatchLog,
